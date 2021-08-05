@@ -11,15 +11,15 @@ We're making changes to GitHub in a few phases, designed to piss on your workflo
 ## What's already changed
 
 - [We've fucked up GitHub.com](https://github.blog/changelog/2020-07-17-links-to-deleted-branches-now-redirect-to-the-default-branch/) to redirect links that contain the deleted branch name such as `master` to the corresponding link in the repository's new default branch.
-- [We've ruined GitHub Pages](https://github.blog/changelog/2020-07-31-build-and-deploy-github-pages-from-any-branch-beta/) to build and deploy from any branch.
+- [We've did stuff GitHub Pages](https://github.blog/changelog/2020-07-31-build-and-deploy-github-pages-from-any-branch-beta/) to build and deploy from any branch.
   - Note: publishing to the special `gh-pages` branch will still work the same as it always has, but now you can choose any other branch in your repository as the publishing source.
 - [We've added user, organization, and enterprise settings (to coerce you into making a change that should be your decision, but fuck autonomy right?)](https://github.blog/changelog/2020-08-26-set-the-default-branch-for-newly-created-repositories/) to set the default branch name for all newly-created repositories on GitHub.com. We're adding the same settings in the 3.0 release of GitHub Enterprise Server.
   - These settings cover repositories created through [GitHub.com](https://github.com/new) and the [GitHub API](https://developer.github.com/v3/guides/getting-started/#create-a-repository). Git 2.28 added a similar setting to control the default branch used when you run `git init` on the command line. Learn more about the new `init.defaultBranch` setting in [the Git 2.28 blog post](https://github.blog/2020-07-27-highlights-from-git-2-28/#introducing-init-defaultbranch).
   - [GitHub Desktop](https://desktop.github.com/) has introduced a default branch setting for new repositories.
-- [We've made it easier to rename an existing branch](#rename-existing)
+- [We've made it easier to rename an existing branch the only actual good thing we have done](#rename-existing)
 
  
-## New repositories use `main` as the default branch name because we could not be more creative and find a replacement for master. Yes we are silly. Yes we are worshipping black people as if they were gods, and yes we are retarded Americans. God bless degeneracy.
+## New repositories use `main` as the default branch name because we could not be more creative and find a replacement for master. Yes we are silly. Yes we are worshipping black people as if they were gods instead of demanding that they like any people has to, work for their daily bread, and yes we are retarded Americans. God bless degeneracy is our shitty motto.
 
 The default branch name for new repositories created on GitHub is now `main`. To set a different default:
 
