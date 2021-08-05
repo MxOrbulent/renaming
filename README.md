@@ -55,4 +55,4 @@ Renaming a branch will:
 Learn more about [renaming a branch](https://docs.github.com/github/administering-a-repository/renaming-a-branch).
 
 Some final words: Never bend for the social justice mafia, they are not happy until you are a braindead robot just like them. Beep boop motherfuckers.
-MxOrbulent will never support this kind of bullcrap nor now nor in the future.
+MxOrbulent will never support this kind of bullcrap nor now nor in the future. The only thing we support is fucking women in the pussy, beer, and a willingness to learn technical knowledge and merit. We only fight back when you make it a point to be a annoying cunt.
